@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Zhao Zhen"
-description              : "Focusing on LLM & Agents"
-repository               : "Iaiolk/Iaiolk.github.io"
+title                    : "Feifei Dai"
+description              : "LLM"
+repository               : "daifeifei91-ops/daifeifei.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ google_scholar_stats_use_cdn : true
 
 # Site Author
 author:
-  name             : "Zhao Zhen"
-  avatar           : "images/me.png"
+  name             : "Feifei Dai"
+  avatar           : "images/dff.png"
   bio              : ""
   location         : "Beijing"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=nmJtip0AAAAJ"
-  email            : "zhaozhen24@mails.ucas.ac.cn"
+  googlescholar    : "https://scholar.google.com/citations?user=m0s6354AAAAJ&hl=zh-CN"
+  email            : "daifeifei@iie.ac.cn"
   researchgate     : 
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Iaiolk"
+  github           : "daifeifei"
   google_plus      :
   keybase          :
   instagram        :
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : 
   dblp             : 
-  orcid            : "https://orcid.org/0009-0004-5458-6710"
+  orcid            : "https://orcid.org/0000-0003-1268-1715"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
